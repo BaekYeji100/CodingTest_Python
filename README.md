@@ -9,3 +9,11 @@
 4796번:캠핑 https://www.acmicpc.net/problem/4796
 
 11399번:ATM https://www.acmicpc.net/problem/11399
+
+9/28
+
+16435번:스네이크버드 https://www.acmicpc.net/problem/16435
+
+13417번:카드문자열 https://www.acmicpc.net/problem/13417
+
+14469번:소가 길을 건너간 이유3 https://www.acmicpc.net/problem/14469
