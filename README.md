@@ -19,3 +19,7 @@
 13417번:카드문자열 https://www.acmicpc.net/problem/13417
 
 14469번:소가 길을 건너간 이유3 https://www.acmicpc.net/problem/14469
+
+9/29
+
+10162번:전자레인지 https://www.acmicpc.net/problem/10162
