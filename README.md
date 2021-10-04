@@ -23,3 +23,7 @@
 9/29
 
 10162번:전자레인지 https://www.acmicpc.net/problem/10162
+
+10/4
+
+1026번:보물 https://www.acmicpc.net/problem/1026
