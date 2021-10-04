@@ -27,3 +27,5 @@
 10/4
 
 1026번:보물 https://www.acmicpc.net/problem/1026
+
+2810번:컵홀더 https://www.acmicpc.net/problem/2810
