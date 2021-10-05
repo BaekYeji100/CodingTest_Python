@@ -35,3 +35,7 @@
 1783번:병든 나이트 https://www.acmicpc.net/problem/1783
 
 1032번:명령 프롬프트 https://www.acmicpc.net/problem/1032
+
+1476번:날짜 계산 https://www.acmicpc.net/problem/1476
+
+2960번:에라토스테네스의 체  https://www.acmicpc.net/problem/2960
