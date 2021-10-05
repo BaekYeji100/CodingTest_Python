@@ -33,3 +33,5 @@
 10/5
 
 1783번:병든 나이트 https://www.acmicpc.net/problem/1783
+
+1032번:명령 프롬프트 https://www.acmicpc.net/problem/1032
