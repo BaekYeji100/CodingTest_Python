@@ -29,3 +29,7 @@
 1026번:보물 https://www.acmicpc.net/problem/1026
 
 2810번:컵홀더 https://www.acmicpc.net/problem/2810
+
+10/5
+
+1783번:병든 나이트 https://www.acmicpc.net/problem/1783
