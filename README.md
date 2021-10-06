@@ -45,3 +45,5 @@
 1316번:그룹 단어 체커 https://www.acmicpc.net/problem/1316
 
 10773번:제로 https://www.acmicpc.net/problem/10773
+
+7568번:덩치 https://www.acmicpc.net/problem/7568
