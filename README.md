@@ -47,3 +47,6 @@
 10773번:제로 https://www.acmicpc.net/problem/10773
 
 7568번:덩치 https://www.acmicpc.net/problem/7568
+
+10/7
+1292번:쉽게 푸는 문제 https://www.acmicpc.net/problem/1292
