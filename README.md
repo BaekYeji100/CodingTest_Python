@@ -49,4 +49,9 @@
 7568번:덩치 https://www.acmicpc.net/problem/7568
 
 10/7
+
 1292번:쉽게 푸는 문제 https://www.acmicpc.net/problem/1292
+
+10/11
+
+1337번:올바른 배열 https://www.acmicpc.net/problem/1337
