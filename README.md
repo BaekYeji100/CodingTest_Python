@@ -57,3 +57,5 @@
 1337번:올바른 배열 https://www.acmicpc.net/problem/1337
 
 2693번:N번째 큰 수 https://www.acmicpc.net/problem/2693
+
+3085번:사탕게임 https://www.acmicpc.net/problem/3085
