@@ -55,3 +55,5 @@
 10/11
 
 1337번:올바른 배열 https://www.acmicpc.net/problem/1337
+
+2693번:N번째 큰 수 https://www.acmicpc.net/problem/2693
