@@ -66,3 +66,7 @@
 
 11170번:0의 개수 https://www.acmicpc.net/problem/11170
 
+
+10/13
+
+1388번:바닥 장식 https://www.acmicpc.net/problem/1388
