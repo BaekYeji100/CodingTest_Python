@@ -71,3 +71,7 @@
 10/13
 
 1388번:바닥 장식 https://www.acmicpc.net/problem/1388
+
+10/15
+
+2606번:바이러스 https://www.acmicpc.net/problem/2606
