@@ -81,4 +81,9 @@
 2644번:촌수계산 https://www.acmicpc.net/problem/2644
 
 10/28
+
 11724번:연결 요소의 개수 https://www.acmicpc.net/problem/11724
+
+10/29
+
+3184번:양 https://www.acmicpc.net/problem/3184
