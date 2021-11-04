@@ -95,3 +95,11 @@
 11123번:양 한마리... 양 두마리... https://www.acmicpc.net/problem/11123
 
 14716번:현수막 https://www.acmicpc.net/problem/14716
+
+11/3
+
+선택정렬, 삽입정렬 정리
+
+11/4
+
+퀵정렬
