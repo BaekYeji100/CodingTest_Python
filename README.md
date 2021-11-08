@@ -113,3 +113,7 @@
 1427번:소트인사이드 https://www.acmicpc.net/problem/1427
 
 11651번:좌표 정렬하기2 https://www.acmicpc.net/problem/11651
+
+11/8
+
+18870번:좌표 압축 https://www.acmicpc.net/problem/18870
