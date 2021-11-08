@@ -103,3 +103,13 @@
 11/4
 
 퀵정렬
+
+11/5
+
+1263번:시간관리 https://www.acmicpc.net/problem/1263
+
+10867번:중복빼고 정렬하기 https://www.acmicpc.net/problem/10867
+
+1427번:소트인사이드 https://www.acmicpc.net/problem/1427
+
+11651번:좌표 정렬하기2 https://www.acmicpc.net/problem/11651
