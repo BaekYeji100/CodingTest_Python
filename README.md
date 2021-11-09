@@ -117,3 +117,11 @@
 11/8
 
 18870번:좌표 압축 https://www.acmicpc.net/problem/18870
+
+11/9
+
+11652번:카드 https://www.acmicpc.net/problem/11652
+
+2212번:센서 https://www.acmicpc.net/problem/2212
+
+13164번:행복 유치원 https://www.acmicpc.net/problem/13164
