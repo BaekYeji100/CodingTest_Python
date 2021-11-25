@@ -137,3 +137,9 @@
 9655번:돌게임 https://www.acmicpc.net/problem/9655
 
 11052번:카드 구매하기 https://www.acmicpc.net/problem/11052 -> 
+
+11/25
+
+9095번:1,2,3 더하기 https://www.acmicpc.net/problem/9095
+
+9656번:돌게임2 https://www.acmicpc.net/problem/9656
