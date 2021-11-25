@@ -125,3 +125,7 @@
 2212번:센서 https://www.acmicpc.net/problem/2212
 
 13164번:행복 유치원 https://www.acmicpc.net/problem/13164
+
+11/19
+
+7795번:먹을 것인가 먹힐 것인가 https://www.acmicpc.net/problem/7795
