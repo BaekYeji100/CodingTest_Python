@@ -129,3 +129,11 @@
 11/19
 
 7795번:먹을 것인가 먹힐 것인가 https://www.acmicpc.net/problem/7795
+
+11/23
+
+11722번:가장 긴 감소하는 부분 수열 https://www.acmicpc.net/problem/11722
+
+9655번:돌게임 https://www.acmicpc.net/problem/9655
+
+11052번:카드 구매하기 https://www.acmicpc.net/problem/11052 -> 
