@@ -143,3 +143,9 @@
 9095번:1,2,3 더하기 https://www.acmicpc.net/problem/9095
 
 9656번:돌게임2 https://www.acmicpc.net/problem/9656
+
+11/26
+
+4963번:섬의 개수 https://www.acmicpc.net/problem/4963
+
+14495번:피보나치 비스무리한 수열 https://www.acmicpc.net/problem/14495
