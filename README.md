@@ -155,3 +155,9 @@
 2579번:계단오르기 https://www.acmicpc.net/problem/2579
 
 1463번:1로 만들기 https://www.acmicpc.net/problem/1463
+
+12/03
+
+2193번:이친수 https://www.acmicpc.net/problem/2193
+
+1912번:연속합 https://www.acmicpc.net/problem/1912
